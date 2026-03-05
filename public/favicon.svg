@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="24" fill="#080810"/>
+  <polygon points="60,8 103,32.5 103,81.5 60,106 17,81.5 17,32.5"
+    fill="rgba(200,16,46,0.85)" stroke="#c8102e" stroke-width="2"/>
+  <polygon points="60,22 91,39.5 91,74.5 60,92 29,74.5 29,39.5"
+    fill="rgba(0,0,0,0.3)"/>
+  <text x="60" y="68"
+    font-family="Arial Black, sans-serif"
+    font-weight="900" font-size="38"
+    fill="white" text-anchor="middle"
+    dominant-baseline="middle">M</text>
+  <circle cx="60" cy="10" r="5" fill="#c8102e"/>
+</svg>
